@@ -3,4 +3,4 @@ Este repositorio reúne una colección de proyectos académicos desarrollados du
 
 Cada código incluye comentarios con la fecha original de realización. Todos los archivos fueron revisados y editados en mayo de 2025 con el objetivo de mejorar su claridad, organización y presentación. Los principales lenguajes de programación empleados en estos proyectos son Python y MATLAB.
 
-Este portafolio ha sido curado con fines académicos y profesionales, como parte de mi postulación a oportunidades laborales en el ámbito de las geociencias aplicadas y la ingeniería computacional.
+Este portafolio ha sido curado con fines académicos y profesionales, como parte de mi postulación a oportunidades laborales en el ámbito de las geociencias aplicadas.
